@@ -1,0 +1,6 @@
+__pycache__
+realtorbot-venv
+ngrok
+.ipynb_checkpoints
+aptsdata.csv
+clean.csv
